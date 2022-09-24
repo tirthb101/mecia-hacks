@@ -1,0 +1,6 @@
+cvzone
+numpy
+myserial
+opencv-python
+flask-cors
+flask
